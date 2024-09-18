@@ -1,4 +1,7 @@
 # Get Next Line - 1337 (42 Network)
+
+![Dining Philosophers](https://github.com/REDX-at/get_next_line/blob/master/images/gnl%2042.png)
+
 Get Next Line is a project aimed at creating a function that reads a line from a file descriptor until a newline character is encountered. This project helps students gain deeper knowledge of file handling, buffers, and memory management in C.
 
 ## Introduction
@@ -25,5 +28,3 @@ No Memory Leaks: Proper management of dynamically allocated memory to ensure the
 Contact
 For any questions or feedback, feel free to reach out to me at your.email@example.com or visit my GitHub profile at GitHub.
 
-
-![Dining Philosophers](https://github.com/REDX-at/get_next_line/blob/master/images/gnl%2042.png)
